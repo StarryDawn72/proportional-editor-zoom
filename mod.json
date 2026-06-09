@@ -13,7 +13,7 @@
 	"description": "Make editor zoom feel consistent at bigger zoom levels.",
 	"tags": ["editor", "enhancement"],
 	"links": {
-		"source": "https://github.com/StarryDawn72/logarithmic-zoom"
+		"source": "https://github.com/StarryDawn72/proportional-editor-zoom"
 	},
 	"settings": {
 		"enabled": {
