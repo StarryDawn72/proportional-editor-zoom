@@ -1,0 +1,29 @@
+{
+	"geode": "5.5.3",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "starrydawn72.proportional-editor-zoom",
+	"name": "Proportional Editor Zoom",
+	"version": "v1.0.0",
+	"developer": "StarryDawn72",
+	"description": "Make editor zoom feel consistent at bigger zoom levels.",
+	"tags": ["editor", "enhancement"],
+	"links": {
+		"source": "https://github.com/StarryDawn72/logarithmic-zoom"
+	},
+	"settings": {
+		"enabled": {
+			"type": "bool",
+			"name": "Enabled",
+			"description": "Enable this mod? This setting does not require a restart.",
+			"default": true
+		}
+	},
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	}
+}
